@@ -1,0 +1,8 @@
+.element{
+    border: dotted blue;
+}
+.item{
+    padding: 20px;
+    margin: 5%;
+    border: solid green;
+}
